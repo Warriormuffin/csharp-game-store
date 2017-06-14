@@ -1,0 +1,8 @@
+/Users/Elg/Projects/BCW.Store.Tests/BCW.Store.Tests/bin/Debug/BCW.Store.Tests.exe
+/Users/Elg/Projects/BCW.Store.Tests/BCW.Store.Tests/bin/Debug/BCW.Store.Tests.pdb
+/Users/Elg/Projects/BCW.Store.Tests/BCW.Store.Tests/obj/x86/Debug/BCW.Store.Tests.csprojResolveAssemblyReference.cache
+/Users/Elg/Projects/BCW.Store.Tests/BCW.Store.Tests/obj/x86/Debug/BCW.Store.Tests.csproj.CoreCompileInputs.cache
+/Users/Elg/Projects/BCW.Store.Tests/BCW.Store.Tests/obj/x86/Debug/BCW.Store.Tests.exe
+/Users/Elg/Projects/BCW.Store.Tests/BCW.Store.Tests/obj/x86/Debug/BCW.Store.Tests.pdb
+/Users/Elg/Projects/BCW.Store.Tests/BCW.Store.Tests/bin/Debug/BCW.Store.dll
+/Users/Elg/Projects/BCW.Store.Tests/BCW.Store.Tests/bin/Debug/BCW.Store.pdb

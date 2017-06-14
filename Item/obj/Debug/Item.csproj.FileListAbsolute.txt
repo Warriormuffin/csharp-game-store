@@ -1,0 +1,6 @@
+/Users/Elg/Projects/BCW.Store.Tests/Item/bin/Debug/Item.dll
+/Users/Elg/Projects/BCW.Store.Tests/Item/bin/Debug/Item.pdb
+/Users/Elg/Projects/BCW.Store.Tests/Item/obj/Debug/Item.csprojResolveAssemblyReference.cache
+/Users/Elg/Projects/BCW.Store.Tests/Item/obj/Debug/Item.csproj.CoreCompileInputs.cache
+/Users/Elg/Projects/BCW.Store.Tests/Item/obj/Debug/Item.dll
+/Users/Elg/Projects/BCW.Store.Tests/Item/obj/Debug/Item.pdb

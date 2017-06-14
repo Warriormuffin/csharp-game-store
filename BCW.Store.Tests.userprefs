@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{953CCA3B-E142-4E5F-A4E4-19C562A683EF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BCW.Store.Tests/Program.cs">
+    <Files>
+      <File FileName="BCW.Store.Tests/Program.cs" Line="38" Column="21" />
+      <File FileName="BCW.Store/Item.cs" Line="19" Column="2" />
+      <File FileName="BCW.Store/Store.cs" Line="114" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="BCW.Store/Store.cs" line="20" offsetX="366" offsetY="285" expression="BCW.Store.Item" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.BCW.Store.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
