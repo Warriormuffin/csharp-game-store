@@ -18,6 +18,13 @@ namespace BCW.Store.Tests
 
             Nathans.RemoveItemsFromStore(sword);
 
+            var MagicSword = new Sword("Magic Sword", "Master using it and you can have it.", 30, 70);
+
+            MagicSword.Attack();
+          
+			var basicShield = new Shield(.10f, "Provieds 10% Extra Defense", "Basic Shield", 10);
+
+            basicShield.Block(100f);
 
 			bool running = true;
 

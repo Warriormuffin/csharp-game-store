@@ -1,9 +1,13 @@
 ﻿<Properties StartupConfiguration="{953CCA3B-E142-4E5F-A4E4-19C562A683EF}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BCW.Store.Tests/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BCW.Store/Shield.cs">
     <Files>
-      <File FileName="BCW.Store.Tests/Program.cs" Line="38" Column="21" />
-      <File FileName="BCW.Store/Item.cs" Line="19" Column="2" />
+      <File FileName="BCW.Store.Tests/Program.cs" Line="27" Column="31" />
+      <File FileName="BCW.Store/Item.cs" Line="11" Column="21" />
       <File FileName="BCW.Store/Store.cs" Line="114" Column="1" />
+      <File FileName="BCW.Store/Sword.cs" Line="8" Column="99" />
+      <File FileName="BCW.Store/Shield.cs" Line="24" Column="6" />
+      <File FileName="BCW.Store/Player.cs" Line="31" Column="34" />
+      <File FileName="BCW.Store/HealthPotion.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
