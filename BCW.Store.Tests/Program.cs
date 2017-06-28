@@ -14,15 +14,13 @@ namespace BCW.Store.Tests
             Nathans.AddItemToStore(pick);
 			Nathans.AddItemToStore(shield);
             Nathans.AddItemToStore(sword);
-			
-
             Nathans.RemoveItemsFromStore(sword);
 
             var MagicSword = new Sword("Magic Sword", "Master using it and you can have it.", 30, 70);
 
             MagicSword.Attack();
           
-			var basicShield = new Shield(.10f, "Provieds 10% Extra Defense", "Basic Shield", 10);
+			var basicShield = new Shield("Basic Shield", "Provieds 10% Extra Defense", 10, .10f);
 
             basicShield.Block(100f);
 
